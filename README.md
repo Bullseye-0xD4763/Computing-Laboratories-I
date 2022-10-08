@@ -22,4 +22,6 @@ $ ./BlockDude
 
 ## Thanks 
 
-And a big thank you to my brilliant partner https://github.com/NopeGuy
+And a big thank you to my brilliant partner 
+
+- https://github.com/NopeGuy
