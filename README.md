@@ -7,9 +7,9 @@
 ## How to run
 
 ```bash
-$ git clone https://github.com/DigoqueDigo/BlockDude.git
+$ git clone https://github.com/Bullseye-0xD4763/Computing-Laboratories-I
 $ cd BlockDude/src
-$ ghc -main-is Main -outputdir Tarefa5 -o BlockDude Tarefa5_2021li1g082
+$ ghc -main-is Main -outputdir Tarefa5 -o BlockDude Tarefa5_2021li1g012
 $ ./BlockDude
 ```
 
@@ -20,5 +20,6 @@ $ ./BlockDude
 - gloss-juicy
 - HUnit (optional)
 
+## Thanks 
 
-And a big thank you to my partner https://github.com/NopeGuy
+And a big thank you to my brilliant partner https://github.com/NopeGuy
