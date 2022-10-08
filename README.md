@@ -11,6 +11,7 @@ $ git clone https://github.com/DigoqueDigo/BlockDude.git
 $ cd BlockDude/src
 $ ghc -main-is Main -outputdir Tarefa5 -o BlockDude Tarefa5_2021li1g082
 $ ./BlockDude
+```
 
 ## Dependencies
 
@@ -20,4 +21,4 @@ $ ./BlockDude
 - HUnit (optional)
 
 
-A big thank you to my partner https://github.com/NopeGuy
+And a big thank you to my partner https://github.com/NopeGuy
